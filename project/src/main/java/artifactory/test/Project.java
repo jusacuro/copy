@@ -6,6 +6,6 @@ package artifactory.test;
 public class Project {
     public static void main(String[] args) {
         new Project();
-        log.debug("Hello World!");
+        System.out.println("Hello World!");
     }
 }
